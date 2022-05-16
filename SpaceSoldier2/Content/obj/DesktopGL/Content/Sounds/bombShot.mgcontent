@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/Tim/Documents/aa FRI 3.letnik/TINR/vaje/00 koncna/SpaceSoldier2/SpaceSoldier2/Content/Sounds/bombShot.wav</SourceFile>
+  <SourceTime>2022-02-06T05:39:35.2285773+01:00</SourceTime>
+  <DestFile>C:/Users/Tim/Documents/aa FRI 3.letnik/TINR/vaje/00 koncna/SpaceSoldier2/SpaceSoldier2/Content/bin/DesktopGL/Content/Sounds/bombShot.xnb</DestFile>
+  <DestTime>2022-02-06T05:40:37.0453204+01:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2020-08-10T18:17:54+02:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2020-08-10T18:17:54+02:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

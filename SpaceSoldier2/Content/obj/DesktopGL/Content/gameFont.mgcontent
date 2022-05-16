@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/Tim/Documents/aa FRI 3.letnik/TINR/vaje/00 koncna/SpaceSoldier2/SpaceSoldier2/Content/gameFont.spritefont</SourceFile>
+  <SourceTime>2021-06-26T13:08:38+02:00</SourceTime>
+  <DestFile>C:/Users/Tim/Documents/aa FRI 3.letnik/TINR/vaje/00 koncna/SpaceSoldier2/SpaceSoldier2/Content/bin/DesktopGL/Content/gameFont.xnb</DestFile>
+  <DestTime>2022-01-01T23:30:35.5089653+01:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2020-08-10T18:17:54+02:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2020-08-10T18:17:54+02:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Tim/Documents/aa FRI 3.letnik/TINR/vaje/00 koncna/SpaceSoldier2/SpaceSoldier2/Content/gameFont.spritefont</File>
+    <File>C:/Users/Tim/Documents/aa FRI 3.letnik/TINR/vaje/00 koncna/SpaceSoldier2/SpaceSoldier2/Content/Sounds/alienKilled.wav</File>
+    <File>C:/Users/Tim/Documents/aa FRI 3.letnik/TINR/vaje/00 koncna/SpaceSoldier2/SpaceSoldier2/Content/Sounds/bombShot.wav</File>
+    <File>C:/Users/Tim/Documents/aa FRI 3.letnik/TINR/vaje/00 koncna/SpaceSoldier2/SpaceSoldier2/Content/Sounds/explosion.wav</File>
+    <File>C:/Users/Tim/Documents/aa FRI 3.letnik/TINR/vaje/00 koncna/SpaceSoldier2/SpaceSoldier2/Content/Sounds/healing.wav</File>
+    <File>C:/Users/Tim/Documents/aa FRI 3.letnik/TINR/vaje/00 koncna/SpaceSoldier2/SpaceSoldier2/Content/Sounds/projectileHit.wav</File>
+    <File>C:/Users/Tim/Documents/aa FRI 3.letnik/TINR/vaje/00 koncna/SpaceSoldier2/SpaceSoldier2/Content/Sounds/projectileShot.wav</File>
+    <File>C:/Users/Tim/Documents/aa FRI 3.letnik/TINR/vaje/00 koncna/SpaceSoldier2/SpaceSoldier2/Content/Sounds/scifiMusic.mp3</File>
+    <File>C:/Users/Tim/Documents/aa FRI 3.letnik/TINR/vaje/00 koncna/SpaceSoldier2/SpaceSoldier2/Content/vsebine.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

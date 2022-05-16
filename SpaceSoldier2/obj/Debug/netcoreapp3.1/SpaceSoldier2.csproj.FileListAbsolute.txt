@@ -1,0 +1,162 @@
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\4 - nadzor - vhodne naprave - dotiki\SpaceSoldier2\SpaceSoldier2\obj\Debug\netcoreapp3.1\SpaceSoldier2.csproj.AssemblyReference.cache
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\4 - nadzor - vhodne naprave - dotiki\SpaceSoldier2\SpaceSoldier2\obj\Debug\netcoreapp3.1\SpaceSoldier2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\4 - nadzor - vhodne naprave - dotiki\SpaceSoldier2\SpaceSoldier2\obj\Debug\netcoreapp3.1\SpaceSoldier2.AssemblyInfoInputs.cache
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\4 - nadzor - vhodne naprave - dotiki\SpaceSoldier2\SpaceSoldier2\obj\Debug\netcoreapp3.1\SpaceSoldier2.AssemblyInfo.cs
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\4 - nadzor - vhodne naprave - dotiki\SpaceSoldier2\SpaceSoldier2\obj\Debug\netcoreapp3.1\SpaceSoldier2.csproj.CoreCompileInputs.cache
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\4 - nadzor - vhodne naprave - dotiki\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\Content\vsebine.xnb
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\4 - nadzor - vhodne naprave - dotiki\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\SpaceSoldier2.exe
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\4 - nadzor - vhodne naprave - dotiki\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\SpaceSoldier2.deps.json
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\4 - nadzor - vhodne naprave - dotiki\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\SpaceSoldier2.runtimeconfig.json
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\4 - nadzor - vhodne naprave - dotiki\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\SpaceSoldier2.runtimeconfig.dev.json
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\4 - nadzor - vhodne naprave - dotiki\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\SpaceSoldier2.dll
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\4 - nadzor - vhodne naprave - dotiki\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\SpaceSoldier2.pdb
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\4 - nadzor - vhodne naprave - dotiki\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\4 - nadzor - vhodne naprave - dotiki\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\4 - nadzor - vhodne naprave - dotiki\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\4 - nadzor - vhodne naprave - dotiki\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\4 - nadzor - vhodne naprave - dotiki\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\4 - nadzor - vhodne naprave - dotiki\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\4 - nadzor - vhodne naprave - dotiki\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\4 - nadzor - vhodne naprave - dotiki\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\4 - nadzor - vhodne naprave - dotiki\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\4 - nadzor - vhodne naprave - dotiki\SpaceSoldier2\SpaceSoldier2\obj\Debug\netcoreapp3.1\SpaceSoldier2.dll
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\4 - nadzor - vhodne naprave - dotiki\SpaceSoldier2\SpaceSoldier2\obj\Debug\netcoreapp3.1\SpaceSoldier2.pdb
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\4 - nadzor - vhodne naprave - dotiki\SpaceSoldier2\SpaceSoldier2\obj\Debug\netcoreapp3.1\SpaceSoldier2.genruntimeconfig.cache
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\6 - igralnost - pravila igre\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\Content\vsebine.xnb
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\6 - igralnost - pravila igre\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\SpaceSoldier2.exe
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\6 - igralnost - pravila igre\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\SpaceSoldier2.deps.json
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\6 - igralnost - pravila igre\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\SpaceSoldier2.runtimeconfig.json
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\6 - igralnost - pravila igre\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\SpaceSoldier2.runtimeconfig.dev.json
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\6 - igralnost - pravila igre\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\SpaceSoldier2.dll
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\6 - igralnost - pravila igre\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\SpaceSoldier2.pdb
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\6 - igralnost - pravila igre\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\6 - igralnost - pravila igre\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\6 - igralnost - pravila igre\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\6 - igralnost - pravila igre\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\6 - igralnost - pravila igre\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\6 - igralnost - pravila igre\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\6 - igralnost - pravila igre\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\6 - igralnost - pravila igre\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\6 - igralnost - pravila igre\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\6 - igralnost - pravila igre\SpaceSoldier2\SpaceSoldier2\obj\Debug\netcoreapp3.1\SpaceSoldier2.csproj.AssemblyReference.cache
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\6 - igralnost - pravila igre\SpaceSoldier2\SpaceSoldier2\obj\Debug\netcoreapp3.1\SpaceSoldier2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\6 - igralnost - pravila igre\SpaceSoldier2\SpaceSoldier2\obj\Debug\netcoreapp3.1\SpaceSoldier2.AssemblyInfoInputs.cache
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\6 - igralnost - pravila igre\SpaceSoldier2\SpaceSoldier2\obj\Debug\netcoreapp3.1\SpaceSoldier2.AssemblyInfo.cs
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\6 - igralnost - pravila igre\SpaceSoldier2\SpaceSoldier2\obj\Debug\netcoreapp3.1\SpaceSoldier2.csproj.CoreCompileInputs.cache
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\6 - igralnost - pravila igre\SpaceSoldier2\SpaceSoldier2\obj\Debug\netcoreapp3.1\SpaceSoldier2.dll
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\6 - igralnost - pravila igre\SpaceSoldier2\SpaceSoldier2\obj\Debug\netcoreapp3.1\SpaceSoldier2.pdb
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\6 - igralnost - pravila igre\SpaceSoldier2\SpaceSoldier2\obj\Debug\netcoreapp3.1\SpaceSoldier2.genruntimeconfig.cache
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\7 - infrastruktura - scena\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\Content\vsebine.xnb
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\7 - infrastruktura - scena\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\SpaceSoldier2.exe
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\7 - infrastruktura - scena\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\SpaceSoldier2.deps.json
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\7 - infrastruktura - scena\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\SpaceSoldier2.runtimeconfig.json
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\7 - infrastruktura - scena\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\SpaceSoldier2.runtimeconfig.dev.json
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\7 - infrastruktura - scena\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\SpaceSoldier2.dll
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\7 - infrastruktura - scena\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\SpaceSoldier2.pdb
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\7 - infrastruktura - scena\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\7 - infrastruktura - scena\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\7 - infrastruktura - scena\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\7 - infrastruktura - scena\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\7 - infrastruktura - scena\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\7 - infrastruktura - scena\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\7 - infrastruktura - scena\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\7 - infrastruktura - scena\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\7 - infrastruktura - scena\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\7 - infrastruktura - scena\SpaceSoldier2\SpaceSoldier2\obj\Debug\netcoreapp3.1\SpaceSoldier2.csproj.AssemblyReference.cache
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\7 - infrastruktura - scena\SpaceSoldier2\SpaceSoldier2\obj\Debug\netcoreapp3.1\SpaceSoldier2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\7 - infrastruktura - scena\SpaceSoldier2\SpaceSoldier2\obj\Debug\netcoreapp3.1\SpaceSoldier2.AssemblyInfoInputs.cache
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\7 - infrastruktura - scena\SpaceSoldier2\SpaceSoldier2\obj\Debug\netcoreapp3.1\SpaceSoldier2.AssemblyInfo.cs
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\7 - infrastruktura - scena\SpaceSoldier2\SpaceSoldier2\obj\Debug\netcoreapp3.1\SpaceSoldier2.csproj.CoreCompileInputs.cache
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\7 - infrastruktura - scena\SpaceSoldier2\SpaceSoldier2\obj\Debug\netcoreapp3.1\SpaceSoldier2.dll
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\7 - infrastruktura - scena\SpaceSoldier2\SpaceSoldier2\obj\Debug\netcoreapp3.1\SpaceSoldier2.pdb
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\7 - infrastruktura - scena\SpaceSoldier2\SpaceSoldier2\obj\Debug\netcoreapp3.1\SpaceSoldier2.genruntimeconfig.cache
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\8 - odzivni agenti - enostavni\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\Content\vsebine.xnb
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\8 - odzivni agenti - enostavni\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\SpaceSoldier2.exe
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\8 - odzivni agenti - enostavni\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\SpaceSoldier2.deps.json
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\8 - odzivni agenti - enostavni\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\SpaceSoldier2.runtimeconfig.json
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\8 - odzivni agenti - enostavni\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\SpaceSoldier2.runtimeconfig.dev.json
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\8 - odzivni agenti - enostavni\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\SpaceSoldier2.dll
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\8 - odzivni agenti - enostavni\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\SpaceSoldier2.pdb
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\8 - odzivni agenti - enostavni\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\8 - odzivni agenti - enostavni\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\8 - odzivni agenti - enostavni\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\8 - odzivni agenti - enostavni\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\8 - odzivni agenti - enostavni\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\8 - odzivni agenti - enostavni\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\8 - odzivni agenti - enostavni\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\8 - odzivni agenti - enostavni\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\8 - odzivni agenti - enostavni\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\8 - odzivni agenti - enostavni\SpaceSoldier2\SpaceSoldier2\obj\Debug\netcoreapp3.1\SpaceSoldier2.csproj.AssemblyReference.cache
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\8 - odzivni agenti - enostavni\SpaceSoldier2\SpaceSoldier2\obj\Debug\netcoreapp3.1\SpaceSoldier2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\8 - odzivni agenti - enostavni\SpaceSoldier2\SpaceSoldier2\obj\Debug\netcoreapp3.1\SpaceSoldier2.AssemblyInfoInputs.cache
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\8 - odzivni agenti - enostavni\SpaceSoldier2\SpaceSoldier2\obj\Debug\netcoreapp3.1\SpaceSoldier2.AssemblyInfo.cs
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\8 - odzivni agenti - enostavni\SpaceSoldier2\SpaceSoldier2\obj\Debug\netcoreapp3.1\SpaceSoldier2.csproj.CoreCompileInputs.cache
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\8 - odzivni agenti - enostavni\SpaceSoldier2\SpaceSoldier2\obj\Debug\netcoreapp3.1\SpaceSoldier2.dll
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\8 - odzivni agenti - enostavni\SpaceSoldier2\SpaceSoldier2\obj\Debug\netcoreapp3.1\SpaceSoldier2.pdb
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\8 - odzivni agenti - enostavni\SpaceSoldier2\SpaceSoldier2\obj\Debug\netcoreapp3.1\SpaceSoldier2.genruntimeconfig.cache
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\9 - zvok - zvoki\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\Content\vsebine.xnb
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\9 - zvok - zvoki\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\SpaceSoldier2.exe
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\9 - zvok - zvoki\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\SpaceSoldier2.deps.json
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\9 - zvok - zvoki\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\SpaceSoldier2.runtimeconfig.json
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\9 - zvok - zvoki\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\SpaceSoldier2.runtimeconfig.dev.json
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\9 - zvok - zvoki\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\SpaceSoldier2.dll
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\9 - zvok - zvoki\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\SpaceSoldier2.pdb
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\9 - zvok - zvoki\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\9 - zvok - zvoki\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\9 - zvok - zvoki\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\9 - zvok - zvoki\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\9 - zvok - zvoki\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\9 - zvok - zvoki\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\9 - zvok - zvoki\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\9 - zvok - zvoki\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\9 - zvok - zvoki\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\9 - zvok - zvoki\SpaceSoldier2\SpaceSoldier2\obj\Debug\netcoreapp3.1\SpaceSoldier2.csproj.AssemblyReference.cache
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\9 - zvok - zvoki\SpaceSoldier2\SpaceSoldier2\obj\Debug\netcoreapp3.1\SpaceSoldier2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\9 - zvok - zvoki\SpaceSoldier2\SpaceSoldier2\obj\Debug\netcoreapp3.1\SpaceSoldier2.AssemblyInfoInputs.cache
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\9 - zvok - zvoki\SpaceSoldier2\SpaceSoldier2\obj\Debug\netcoreapp3.1\SpaceSoldier2.AssemblyInfo.cs
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\9 - zvok - zvoki\SpaceSoldier2\SpaceSoldier2\obj\Debug\netcoreapp3.1\SpaceSoldier2.csproj.CoreCompileInputs.cache
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\9 - zvok - zvoki\SpaceSoldier2\SpaceSoldier2\obj\Debug\netcoreapp3.1\SpaceSoldier2.dll
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\9 - zvok - zvoki\SpaceSoldier2\SpaceSoldier2\obj\Debug\netcoreapp3.1\SpaceSoldier2.pdb
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\9 - zvok - zvoki\SpaceSoldier2\SpaceSoldier2\obj\Debug\netcoreapp3.1\SpaceSoldier2.genruntimeconfig.cache
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\9 - zvok - zvoki\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\Content\Sounds\projectileHit.xnb
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\9 - zvok - zvoki\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\Content\Sounds\projectileShot.xnb
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\9 - zvok - zvoki\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\Content\Sounds\scifiMusic.ogg
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\9 - zvok - zvoki\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\Content\Sounds\scifiMusic.xnb
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\9 - zvok - zvoki\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\Content\Sounds\walking.ogg
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\9 - zvok - zvoki\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\Content\Sounds\walking.xnb
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\9 - zvok - zvoki\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\Content\Sounds\alienKilled.xnb
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\00 koncna\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\Content\Sounds\walking.ogg
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\00 koncna\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\Content\Sounds\walking.xnb
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\00 koncna\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\Content\Sounds\alienKilled.xnb
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\00 koncna\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\Content\Sounds\projectileHit.xnb
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\00 koncna\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\Content\Sounds\projectileShot.xnb
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\00 koncna\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\Content\Sounds\scifiMusic.ogg
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\00 koncna\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\Content\Sounds\scifiMusic.xnb
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\00 koncna\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\Content\vsebine.xnb
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\00 koncna\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\SpaceSoldier2.exe
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\00 koncna\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\SpaceSoldier2.deps.json
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\00 koncna\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\SpaceSoldier2.runtimeconfig.json
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\00 koncna\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\SpaceSoldier2.runtimeconfig.dev.json
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\00 koncna\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\SpaceSoldier2.dll
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\00 koncna\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\SpaceSoldier2.pdb
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\00 koncna\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\00 koncna\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\00 koncna\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\00 koncna\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\00 koncna\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\00 koncna\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\00 koncna\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\00 koncna\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\00 koncna\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\00 koncna\SpaceSoldier2\SpaceSoldier2\obj\Debug\netcoreapp3.1\SpaceSoldier2.csproj.AssemblyReference.cache
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\00 koncna\SpaceSoldier2\SpaceSoldier2\obj\Debug\netcoreapp3.1\SpaceSoldier2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\00 koncna\SpaceSoldier2\SpaceSoldier2\obj\Debug\netcoreapp3.1\SpaceSoldier2.AssemblyInfoInputs.cache
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\00 koncna\SpaceSoldier2\SpaceSoldier2\obj\Debug\netcoreapp3.1\SpaceSoldier2.AssemblyInfo.cs
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\00 koncna\SpaceSoldier2\SpaceSoldier2\obj\Debug\netcoreapp3.1\SpaceSoldier2.csproj.CoreCompileInputs.cache
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\00 koncna\SpaceSoldier2\SpaceSoldier2\obj\Debug\netcoreapp3.1\SpaceSoldier2.dll
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\00 koncna\SpaceSoldier2\SpaceSoldier2\obj\Debug\netcoreapp3.1\SpaceSoldier2.pdb
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\00 koncna\SpaceSoldier2\SpaceSoldier2\obj\Debug\netcoreapp3.1\SpaceSoldier2.genruntimeconfig.cache
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\00 koncna\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\Content\gameFont.xnb
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\00 koncna\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\Content\Sounds\healing.xnb
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\00 koncna\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\Content\Sounds\bombShot.xnb
+C:\Users\Tim\Documents\aa FRI 3.letnik\TINR\vaje\00 koncna\SpaceSoldier2\SpaceSoldier2\bin\Debug\netcoreapp3.1\Content\Sounds\explosion.xnb
